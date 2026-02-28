@@ -1,0 +1,1 @@
+{ "id": "simplevoicechatsync", "name": "SimpleVoiceChatSync", "version": "1.0-SNAPSHOT", "description": "Synchronizes Simple Voice Chat groups across a Velocity network.", "authors": ["Manus"], "main": "de.manus.svc.velocity.SimpleVoiceChatSyncVelocity" }

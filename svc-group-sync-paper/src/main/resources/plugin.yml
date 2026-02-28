@@ -1,0 +1,10 @@
+name: SVC-Sync-Paper
+version: 1.0-SNAPSHOT
+main: de.leonmonkeygamer.SVCGroupSyncPaper.GroupSyncPaperPlugin
+api-version: 1.21.8
+depend: [voicechat]
+channels: [svc_group_sync:main]
+commands:
+  grouplist:
+    description: List all members in your current group
+    usage: /<command>
